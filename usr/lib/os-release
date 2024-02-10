@@ -1,0 +1,7 @@
+NAME="Tatra Linux"
+PRETTY_NAME="Tatra Linux"
+ID=tatra
+ID_LIKE=arch
+BUILD_ID=rolling
+HOME_URL="https://tatralinux.000.pe/"
+LOGO=/usr/share/pixmaps/logo.png
